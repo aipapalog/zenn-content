@@ -3,7 +3,7 @@ title: "管理者権限なしのWindowsにPrefectを入れてみた"
 emoji: "🔧"
 type: "tech"
 topics: ["prefect", "python", "windows", "workflow"]
-published: false
+published: true
 ---
 
 会社のPCなので管理者権限がない。それでも副業のパイプライン管理を改善したくて、Prefectを入れようとした記録です。
